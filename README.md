@@ -1,6 +1,6 @@
 # Talks
 
-Hosting & archive for slides talks I have given. Located at [https://asxndu.tngl.io/talks](https://asxndu.tngl.io/talks)
+Hosting & archive for slides talks I have given. Located at [https://as1ndu.github.io/talks](https://asxndu.tngl.io/talks)
 
 ## Usage
 
